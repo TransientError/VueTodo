@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+:root {
+  --background: #2c2d30;
+  --text: #fafbfb;
+  --primary: #3aafe2;
+  --secondary: #3dc780;
+}
+
+body {
+  margin: 0px;
+}
+
+h1 {
+  font-family: "Roboto";
+  color: var(--text);
+}
+
+p {
+  font-family: "Roboto";
+  color: var(--text);
+}
+
+li {
+  font-family: 'Roboto';
+}
